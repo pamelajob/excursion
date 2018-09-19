@@ -1,5 +1,13 @@
 * {
   background-color: black;
+}
+
+h1,
+.download,
+h2,
+.personal,
+#remembers,
+.images {
   text-align: center;
 }
 
@@ -10,7 +18,25 @@ h1 {
   font-size: 50px;
 }
 
-p {
+.download {
   color: Aquamarine;
   font-size: 16px;
+}
+
+h2 {
+  color: white;
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#remembers {
+  color:Gray;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
+.trademark {
+  color: Gray;
+  text-align: right;
 }
